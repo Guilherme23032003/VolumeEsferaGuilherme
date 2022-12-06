@@ -1,4 +1,4 @@
-﻿namespace VolumeEsferaGuilherme
+namespace VolumeEsferaGuilherme
 {
     internal class Program
     {
