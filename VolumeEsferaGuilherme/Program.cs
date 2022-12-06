@@ -1,6 +1,3 @@
-
-
-
 namespace VolumeEsferaGuilherme
 {
     internal class Program
